@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/8FoLIrNT2jK0evs6bG/giphy-downsized-large.gif" width="100"/>
+  <img src="https://docenciaonline.uach.cl/wp-content/uploads/2022/07/nature.png" width="200"/>
 </div>
 
 # Bienvenido a GlacioUACh
@@ -13,3 +13,9 @@ Somos un equipo de investigadores, profesionales y estudiantes basados en la Uni
 - Formación de lagos y peligros glaciares en Chile (a cargo de Pablo Iribarren, financiado por el proyecto FONDECYT de iniciación No. 11190389).
 - Desarrollo del Relieve Glaciar en el sur de Patagonia (a cargo de Dr. Viktoria Georgieva, financiado por Fondecyt Postdoctorado 2020, 2020-2023)
 
+## Colaboraciones:
+- Sociedad Chilena por el estudio de la Criósfera
+- World Glacier Monitoring Service
+- Laboratorio de análisis de isótopos de la Universidad Andrés Bello
+- Grupo de Glaciología del Instituto de Temperaturas Bajas, Universidad de Hokkaido, Japón
+- Instituto Nacional de Investigación en glaciares y ecosistemas de montaña
